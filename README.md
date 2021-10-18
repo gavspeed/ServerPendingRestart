@@ -2,6 +2,9 @@
 
 # [Download here](https://github.com/gavspeed/ServerPendingRestart/raw/23e85061452ab8476dda779350aa83a48a865b2e/Server.Pending.Restart.zip)
 
+- Version 1.0.1.11 - Fixed MP dependency version issue
+- Version 1.0.1.10 - Initial release
+
 # Background
 This management pack was inspired from an existing, and very popular, management pack from David Allen – 'SCOM Pending Reboot Management Pack'. This provides alerting when certain conditions on the monitored server are detected and requires the server to be restarted.
 We wanted to build on this idea, but at same time, introduce an enhanced level of monitoring. 
