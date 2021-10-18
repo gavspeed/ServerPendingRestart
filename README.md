@@ -1,7 +1,7 @@
 # System Center Operation Manager - SCOM - Server Pending Restart Monitoring Management Pack.
 
 # [Download here](https://github.com/gavspeed/ServerPendingRestart/raw/23e85061452ab8476dda779350aa83a48a865b2e/Server.Pending.Restart.zip)
-
+Works with SCOM 2012 R2 onwards
 - Version 1.0.1.11 - Fixed MP dependency version issue
 - Version 1.0.1.10 - Initial release
 
