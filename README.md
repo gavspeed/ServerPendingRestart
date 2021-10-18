@@ -1,6 +1,6 @@
 # System Center Operation Manager - SCOM - Server Pending Restart Monitoring Management Pack.
 
-
+# [Download here](https://github.com/gavspeed/ServerPendingRestart/raw/23e85061452ab8476dda779350aa83a48a865b2e/Server.Pending.Restart.zip)
 
 # Background
 This management pack was inspired from an existing, and very popular, management pack from David Allen – 'SCOM Pending Reboot Management Pack'. This provides alerting when certain conditions on the monitored server are detected and requires the server to be restarted.
